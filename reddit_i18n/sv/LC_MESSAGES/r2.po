@@ -2913,7 +2913,7 @@ msgstr ""
 #: r2/templates/printablebuttons.html:174
 #: r2/templates/subredditstylesheet.html:78
 msgid "save"
-msgstr "sparad"
+msgstr "spara"
 
 #: r2/templates/flairnextlink.html:25 r2/templates/listing.html:40
 #: r2/templates/tablelisting.html:52
